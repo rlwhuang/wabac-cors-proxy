@@ -10,11 +10,7 @@ const cfOpts = {
 const CORS_ALLOWED_ORIGINS = [
   "http://localhost:10001",
   "http://localhost:8000",
-  "https://oldweb.today",
-  "https://express.archiveweb.page",
-  "https://webrecorder.github.io",
-  "https://staging.server.reprozip.org",
-  "https://server.reprozip.org",
+  "https://oldweb-cjk-cx3ee.ondigitalocean.app",
 ];
 
 
