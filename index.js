@@ -12,7 +12,7 @@ const CORS_ALLOWED_ORIGINS = [
   "http://localhost:8000",
   "https://oldweb-cjk-cx3ee.ondigitalocean.app",
   "https://oldweb-cjk.switcheristic.tel",
-  "https://oldweb-cjk.swtch.tel"
+  "https://oldweb-cjk.pastinter.net"
 ];
 
 
